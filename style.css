@@ -1,0 +1,44 @@
+body {
+	background-color: #1E5128;
+	color: #4E9F3D;
+	font-family: 'Cabin', sans-serif;
+}
+h1{
+	color: #1E5128;
+	font-family: 'Anton', sans-serif;
+	font-weight: 100;
+	letter-spacing: 5px;
+	font-size: 40px;
+}
+h2{
+	color: : #1E5128;
+	font-family: 'Anton', sans-serif;
+	font-weight: 100;
+	letter-spacing: 1px;
+	font-size: 30px;
+}
+a{
+	text-decoration: none;
+	color: red;
+}
+a:hover {
+	color: black;
+}
+
+div {
+	background: #D8E9A8;
+	padding: 60px;
+	width: 700px;	
+	margin: 50px auto;
+	box-shadow: 0px 10px 30px rgba(0,0,0,0.1);
+	border-radius: 4px;
+	text-align: center;
+
+}
+.eau{
+	background-color: #191A19;
+
+}
+.imageli{
+	border-radius: 50%;
+}
